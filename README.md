@@ -11,4 +11,4 @@ API: CoinGecko or any other
 
 ### Coin Details Page
 
-![Details](./screenshots/output.png)
+![Details](./output.png)
