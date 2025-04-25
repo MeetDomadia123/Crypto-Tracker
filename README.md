@@ -4,7 +4,7 @@ Built using React and powered by public crypto APIs.
 
 🛠 Tech Stack<br>
 Frontend: React.js, Axios, Chart.js<br>
-Styling: CSS / Tailwind / Styled-Components (choose based on what you used)<br>
+Styling: CSS / Tailwind / Styled-Components<br>
 API: CoinGecko or any other
 
 ## 📸 Screenshots
